@@ -3,6 +3,8 @@
 Landing Page responsiva para cualquier tamaño de pantalla.
 Hecha con HTML, Tailwind CSS y Javascript.
 
+Puedes entrar a la página con el siguiente link: https://jorgecoronelg.github.io/portafolio-landing-home-smart/
+
 ## Uso
 
 Instalar las dependencias (Tailwind)
