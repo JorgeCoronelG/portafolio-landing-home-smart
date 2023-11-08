@@ -1,0 +1,16 @@
+{
+  "name": "home-smart-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i style.css -o ./dist/main.css",
+    "watch": "tailwindcss -i style.css -o ./dist/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.6",
+    "tailwindcss": "^3.3.5"
+  }
+}
